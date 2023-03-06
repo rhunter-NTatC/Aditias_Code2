@@ -1,4 +1,4 @@
-package APResearch_APCS_Code
+package lab;
 import java.Scanner
 
 public class TicTacToe 
